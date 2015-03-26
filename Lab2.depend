@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1425660801 source:c:\users\jerry groom\desktop\data structures\lab2\blogentry.cpp
+	"BlogEntry.h"
+
+1424043841 c:\users\jerry groom\desktop\data structures\lab2\blogentry.h
+	<stdexcept>
+	<iostream>
+	"Text.h"
+	"Date.h"
+
+1423852899 c:\users\jerry groom\desktop\data structures\lab2\text.h
+	<stdexcept>
+	<iostream>
+
+1423785502 c:\users\jerry groom\desktop\data structures\lab2\date.h
+	<stdexcept>
+	<iostream>
+	<ctime>
+
+1425667851 source:c:\users\jerry groom\desktop\data structures\lab2\date.cpp
+	"Date.h"
+	<ctime>
+	<iomanip>
+	<iostream>
+
+1425662923 source:c:\users\jerry groom\desktop\data structures\lab2\test2.cpp
+	<iostream>
+	<stdlib.h>
+	"BlogEntry.h"
+	"config.h"
+
+1425659346 c:\users\jerry groom\desktop\data structures\lab2\config.h
+
+1425660868 source:c:\users\jerry groom\desktop\data structures\lab2\text.cpp
+	<iostream>
+	<iomanip>
+	<cassert>
+	<cstring>
+	"Text.h"
+
